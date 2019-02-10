@@ -1,5 +1,5 @@
 //Pooja Goyal
-//Student ID: 109896598
+
 //Project 5  Texture Mapping & Loading
 
 #include "SOIL.h"
