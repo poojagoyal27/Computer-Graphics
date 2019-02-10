@@ -1,5 +1,4 @@
 //Pooja Goyal
-//Student ID:- 109896598
 //Project Assignment 3 :- N degree Beizer Curve
 #include <string.h>
 #ifdef __APPLE__
